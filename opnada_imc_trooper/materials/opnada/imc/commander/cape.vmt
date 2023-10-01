@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "opnada/imc/commander/cape_c"
+	$bumpmap "opnada/imc/commander/cape_nm"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	
+	$nocull 1
+	
+	"$detail" "opnada/imc/commander/cape_ao"
+	$detailscale 1
+	$detailblendmode 4
+	$detailblendfactor 1
+}

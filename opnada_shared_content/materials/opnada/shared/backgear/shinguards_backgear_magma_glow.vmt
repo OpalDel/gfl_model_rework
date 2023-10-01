@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "opnada/Shared/Backgear/shinguards_backgear_magma_c"
+	"$bumpmap" "opnada/Shared/Backgear/shinguards_backgear_magma_nm"
+
+	"$selfillum" "1"
+	"$selfillumtint" "[10 .05 .05]"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0 5 1]"	
+
+	$phong 1
+	$phongfresnelranges	"[0 0.5 1]"
+	$phongboost 2
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2		
+}

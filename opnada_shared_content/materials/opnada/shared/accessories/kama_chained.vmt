@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "opnada/Shared/accessories/kama_chained_c"
+	"$bumpmap" "opnada/Shared/accessories/kama_chained_nm"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+
+	$nocull 1		
+}

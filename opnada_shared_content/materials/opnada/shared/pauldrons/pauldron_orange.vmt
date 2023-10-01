@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "opnada/Shared/Pauldrons/pauldron_orange"
+	$bumpmap "opnada/Shared/Pauldrons/pauldron_nm"
+	
+	$phongexponenttexture"opnada/Shared/Pauldrons/pauldron_exp"
+
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phong" "1"
+	"$phongboost"	"19.9934895"
+
+	"$phongfresnelranges"	"[0.05 0.115 0.945]"
+
+	"$phongdisablehalflambert"	"1"
+
+
+    	$rimlight 1
+   	 $rimlightexponent       2
+    	$rimlightboost          .2
+    	$rimmask 0
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[.5 .5 .5]"
+}

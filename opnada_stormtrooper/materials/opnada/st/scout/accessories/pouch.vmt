@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "opnada/st/scout/Accessories/Pouch_c"
+	"$bumpmap" "opnada/st/scout/Accessories/Pouch_nm"
+
+	$rimlight 1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 0	
+}

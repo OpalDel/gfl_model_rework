@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "opnada/Shared/Backgear/backgear_jedha_and_space_c"
+	$bumpmap "opnada/Shared/Backgear/backgear_jedha_and_space_nm"
+
+	$color2 "[1.5 1.5 1.5]"
+
+	$phong 1
+   	$phongfresnelranges "[0.5 0.4 0]"
+	$phongboost	"1"
+
+	$rimlight 1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 0
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.05 0.05 0.05 ]"
+	$envmapfresnel 1
+	$blendTintByBaseAlpha 1
+	$normalmapalphaenvmapmask 1
+
+	$translucent 1
+	$nocull 1
+}

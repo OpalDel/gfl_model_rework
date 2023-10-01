@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "opnada/st/scout/black_variant/body_black_c"
+	"$bumpmap" "opnada/st/scout/body_nm"
+
+	$rimlight 1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 0	
+}
+

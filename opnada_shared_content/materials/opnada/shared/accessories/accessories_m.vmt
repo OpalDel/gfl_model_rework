@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	$basetexture "opnada/Shared/Accessories/accessories_c"
+	$bumpmap "opnada/Shared/Accessories/accessories_nm"
+
+	$phongexponenttexture "opnada/Shared/Accessories/accessories_exp"
+
+	$phong 1
+	"$phongfresnelranges"	"[0.87 0.9 1]"
+	$phongboost    "19.9934895"
+
+    	$rimlight 1
+   	 $rimlightexponent       2
+    	$rimlightboost          .2
+    	$rimmask 0
+
+    	$envmap "env_cubemap"
+    	$envmaptint "[.5 .5 .5]"
+    	$envmapfresnel 1
+    	$blendTintByBaseAlpha 1
+    	$normalmapalphaenvmapmask 1
+}

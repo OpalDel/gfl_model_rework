@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "opnada/Shared/Backgear/backgear_shock_c"
+	$bumpmap "opnada/Shared/Backgear/backgear_shock_nm"
+	"$phongwarptexture" "opnada/phongwarp_sheen"
+ 
+	$phong 1
+   	$phongfresnelranges "[0.5 0.4 0]"
+	$phongboost	"1"
+
+	$rimlight 1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 0
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.05 0.05 0.05 ]"
+	$envmapfresnel 1
+	$blendTintByBaseAlpha 1
+	$normalmapalphaenvmapmask 1
+
+	$detail "opnada/Shared/Backgear/backgear_shock_emission"
+	$detailblendmode 5
+	$detailscale 1
+
+	$translucent 1
+	$nocull 1
+}
