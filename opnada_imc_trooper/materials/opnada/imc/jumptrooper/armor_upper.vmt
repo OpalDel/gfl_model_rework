@@ -1,8 +1,8 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "opnada/imc/jumptrooper/armor_upper_c"
+	"$basetexture" "opnada/IMC/jumptrooper/armor_upper_c"
 	"$bumpmap" "opnada/Shared/armor_upper_nm"
-    	"$phongwarptexture" "models/opnada/phongwarp_sheen" 
+    	"$phongwarptexture" "opnada/phongwarp_sheen" 
 
 	$color2 "[0.85 0.85 0.85 ]"
 
